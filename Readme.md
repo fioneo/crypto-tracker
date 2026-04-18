@@ -1,19 +1,18 @@
-# Real-Time Cryptocurrency Tracker
+# Cryptocurrency Tracker
 
-A modern, fast, and beautiful **single-page cryptocurrency tracker** built with pure Vanilla JavaScript.
+A beautiful single-page application built with pure Vanilla JavaScript.
 
 ---
 
 ## Features
 
 ### Dashboard
-- Global cryptocurrency stats:
-  - **Total Market Cap**
-  - **24h Trading Volume**
-  - **BTC Dominance**
-  - **Active Coins & Markets**
-  - **Fear & Greed Index**
-  - **Market Trend**
+- Total Market Cap
+- 24h Trading Volume
+- BTC Dominance
+- Active Coins & Markets
+- Fear & Greed Index
+- Market Trend
 
 ### Coins Table
 - Full sorting by any column
@@ -35,7 +34,7 @@ A modern, fast, and beautiful **single-page cryptocurrency tracker** built with 
 - **Alternative.me API** 
 
 
-## 📦 Local Development
+## Local Development
 
 ```bash
 git clone https://github.com/fioneo/crypto-tracker.git
