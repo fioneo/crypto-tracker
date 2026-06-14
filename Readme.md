@@ -1,6 +1,6 @@
 # Cryptocurrency Tracker
 
-A beautiful single-page application built with pure Vanilla JavaScript.
+A beautiful single-page application built with JavaScript.
 
 ---
 
