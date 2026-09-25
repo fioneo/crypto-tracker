@@ -26,19 +26,9 @@ A beautiful single-page application built with JavaScript.
 - Coin description
 
 ## Tech Stack
-- **Vanilla JavaScript** 
+- **JavaScript** 
 - **Tailwind CSS** 
-- **Handlebars**  
+- **Handlebars**
 - **Chart.js** 
 - **CoinGecko API**
 - **Alternative.me API** 
-
-
-## Local Development
-
-```bash
-git clone https://github.com/fioneo/crypto-tracker.git
-cd crypto-tracker
-npm install
-npm run dev
-```
